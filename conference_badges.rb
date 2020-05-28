@@ -13,7 +13,7 @@ end
 def assign_rooms(speakers)
   output=[]
   speakers.each do |speaker|
-    output.push("Hello,#{speaker}! you'll be assigned to room #{output.size+1}!")
+    output.push("Hello,#{speaker}! You'll be assigned to room #{output.size+1}!")
   end
   output
 end
