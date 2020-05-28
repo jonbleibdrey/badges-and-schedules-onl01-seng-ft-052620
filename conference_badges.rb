@@ -13,8 +13,9 @@ def assign_rooms(room_assignments)
   
 end
 
-#def printer
-#end
+def printer
+  
+end
  
   #(1..4).map { |i| i*i } 
 
