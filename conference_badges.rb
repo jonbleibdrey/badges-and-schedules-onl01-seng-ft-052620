@@ -10,10 +10,11 @@ end
 
 def assign_rooms(room_assignments)
   badges.map {|name,room|"Hello, #{name}! You'll be assigned to #{room_assignments}!"
+ end
 end
 
-def printer
-end
+#def printer
+#end
  
   #(1..4).map { |i| i*i } 
 
