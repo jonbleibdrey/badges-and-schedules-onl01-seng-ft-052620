@@ -9,7 +9,7 @@ def batch_badge_creator(badges)
 end
 
 def assign_rooms(room_assignments)
-  badges.map {|name,
+  badges.map {|name,room|"hello"
   
 end
 
