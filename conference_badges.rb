@@ -30,5 +30,4 @@ def printer(names)
   end
 end
  
-  #(1..4).map { |i| i*i } 
 
