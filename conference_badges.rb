@@ -9,7 +9,7 @@ def batch_badge_creator(badges)
 end
 
 def assign_rooms(room_assignments)
-  room_assignments.map.with_index-=1{|name,room_assignments|"Hello, #{name}! You'll be assigned to #{room_assignments}!"} 
+  room_assignments.map.with_index{|name,room_assignments|"Hello, #{name}! You'll be assigned to #{room_assignments}!"} 
   
 end
 
